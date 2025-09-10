@@ -1,0 +1,2 @@
+# repositorio_bootstrap.curriculo
+repositorio_bootstrap.curriculo
