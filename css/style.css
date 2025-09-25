@@ -1,0 +1,158 @@
+.color1 {color: #7d86ff;}
+.color2 {color: #89caff;}
+.color1 {color: #222a55;}
+.color2 {color: #3d3a68;}
+.color3 {color: #556892;}
+.color4 {color: #7b7ac9;}
+body{
+    background-color: #7aa9d6;
+}
+.fundolivia{
+    background-color: white;
+}
+
+.navbar .container-fluid {
+  position: relative;
+}
+
+.navbar-nav {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999;
+  transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+header {
+  background-color: transparent;
+}
+
+
+hr {
+  border: none;
+  width: 90%;
+  margin: 0 auto;
+  height: 6px;
+  background: linear-gradient(
+    to right,
+    #2600ff 0%,
+    #4f79c7 50%,
+    #040352 100%
+  );
+}
+
+
+.logo{
+    width: 20%;
+    margin-left: 30px;
+}
+
+h1{
+  margin-bottom: 50px;
+}
+
+h2{
+    color: #556392;
+    margin-bottom: 30px;
+}
+
+.minhafonte{
+    font-size: 1.4em;
+}
+
+.fonte1-3{
+    font-size: 1.2em;
+}
+
+.clearfix{
+    padding: 100px;
+    margin-top: 100px;
+}
+
+.clearfix h2{
+    margin-bottom: 1em;
+}
+.clearfix img{
+    width: 250px;
+    border-radius: 15%}
+
+.compsocio{
+    margin: 50px 80px;
+}
+
+.card.corazul {
+  border-color: #6a7cda;
+  color: #6a7cda;
+}
+
+.card.corroxa {
+  border-color: #262481;
+  color: #262481;
+}
+
+.card.corrosa {
+  border-color: #7678e2;
+  color: #7678e2;
+}
+
+.card.coramarela {
+  border-color: #7387c9;
+  color: #7387c9;
+}
+
+.card.corverde {
+  border-color: #9598c4;
+  color: #9695c4;
+}
+
+.footer {
+  background: linear-gradient(
+    to right,
+    #9589ff,
+    #7a86c9,
+    #556392
+  );
+  color: #f9f0e6;
+  padding: 10px;
+}
+.footer p{
+    font-size: 1.2em;
+}
+
+.borda{
+    border-style: solid;
+    border-color: #827ac9;
+    border-width: 2px 8px 10px 0;
+}
+
+
+#projetos{
+  margin-top: 150px;
+}
+
+.projetosSITES, .projetosJS{
+  margin-top: 50px;
+  margin-bottom: 80px;
+}
+
+.carousel-caption a {
+  text-decoration: none;
+  font-size: 2rem;
+  color: white;
+}
+.carousel-caption a:hover{
+  color: #898bff;
+}
+
+.formslivia{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
